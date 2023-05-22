@@ -1,10 +1,10 @@
 ## Hi there, I'm Juliani Chagas! 👋
 
 ### About me:
-👩🏻‍🎓 Bachelor in Information Systems
-👩🏻‍💻 MBA in IT Strategic Management
-🐍 I'm more used to program with Python and SQL
-🎨 I can make [realistic drawings](https://www.instagram.com/juchagas_arts/)
+👩🏻‍🎓 Bachelor in Information Systems<br>
+👩🏻‍💻 MBA in IT Strategic Management<br>
+🐍 I'm more used to program with Python and SQL<br>
+🎨 I can make [realistic drawings](https://www.instagram.com/juchagas_arts/)<br>
 🏊🏼‍♀️ In my free time, I love to swim
 
 <!--
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   
   _Tools: scikit-learn, statsmodels, xgboost, random forest, catboost, decision tree, PCA, t-SNE, UMAP, K-Means, pandas, pandas profiling, numpy, matplotlib, seaborn_
 
-#### Github Activity: 
+### Github Activity: 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/julianichagas/julianichagas/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/julianichagas/julianichagas/output/github-contribution-grid-snake.svg">
