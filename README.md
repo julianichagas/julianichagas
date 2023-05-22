@@ -1,11 +1,10 @@
 ## Hi there, I'm Juliani Chagas! 👋
 
 ### About me:
-👩🏻‍🎓 Bachelor in Information Systems<br>
+🎓 Bachelor in Information Systems<br>
 👩🏻‍💻 MBA in IT Strategic Management<br>
-🐍 I'm more used to program with Python and SQL<br>
 🎨 I can make [realistic drawings](https://www.instagram.com/juchagas_arts/)<br>
-🏊🏼‍♀️ In my free time, I love to swim
+🏊🏼‍♀️ I love to swim
 
 <!--
 **julianichagas/julianichagas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
