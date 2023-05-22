@@ -22,12 +22,11 @@ I work to improve my knowledge in Data Analysis, Data Science, Programming, Mach
 ### About me:
 🎓 Bachelor in Information Systems<br>
 👩🏻‍💻 MBA in IT Strategic Management<br>
-🎨 I can make [realistic drawings](https://www.instagram.com/juchagas_arts/)<br>
+🎨 I can make [realistic drawings](https://www.instagram.com/p/CJ18iacJVj0/)<br>
 🏊🏼‍♀️ I love to swim
 
 ### **Skills:**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pandas/pandas-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
-  
 
 ### **Projects:**
 
@@ -49,3 +48,6 @@ I work to improve my knowledge in Data Analysis, Data Science, Programming, Mach
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/julianichagas/julianichagas/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/julianichagas/julianichagas/output/github-contribution-grid-snake.svg">
 </picture>
+
+### **Contact me:**
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>]( https://www.linkedin.com/in/julianichagas)
