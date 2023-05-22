@@ -26,39 +26,53 @@ I work to improve my knowledge in Data Analysis, Data Science, Programming, Mach
 🏊🏼‍♀️ I love to swim
 
 ### **Skills:**
+<!-- Python -->
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
 </a>
 
+<!-- Pandas -->
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/>
 </a>
 
+<!-- Streamlit -->
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Streamlit-logo-primary-colormark-darktext.png" width="50" height="40"/>
 </a>
 
+<!-- Plotly -->
 <a href="https://plotly.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-official.svg" width="40" height="40"/>
 </a>
 
+<!-- Scikit Learn -->
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 
+<!-- Seaborn -->
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
 </a>
 
+<!-- Jupyter-->
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>
 </a>
 
+<!-- MySQL -->
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 </a>
 
+<!-- Postgres -->
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+</a>
+
+<!-- PL/SQL -->
+<a href="https://www.oracle.com/database/technologies/appdev/plsql.html" target="_blank" rel="noreferrer">
+<img src="https://acaciolrdba.files.wordpress.com/2019/09/plsql-interview-questions.jpg" width="50" height="35"/>
 </a>
 
 
