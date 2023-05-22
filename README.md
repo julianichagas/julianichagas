@@ -1,15 +1,5 @@
 ## Hi there, I'm Juliani Chagas! 👋🏻
 
-Welcome to my GitHub page. In this space I share Data Science codes, written in Python and SQL. They contain predictive and exploratory analyzes in order to use data to generate insights.
-
-I work to improve my knowledge in Data Analysis, Data Science, Programming, Machine Learning and Artificial Intelligence.
-
-### About me:
-🎓 Bachelor in Information Systems<br>
-👩🏻‍💻 MBA in IT Strategic Management<br>
-🎨 I can make [realistic drawings](https://www.instagram.com/juchagas_arts/)<br>
-🏊🏼‍♀️ I love to swim
-
 <!--
 **julianichagas/julianichagas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,6 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Welcome to my GitHub page. In this space I share Data Science codes, written in Python and SQL. They contain predictive and exploratory analyzes in order to use data to generate insights.
+
+I work to improve my knowledge in Data Analysis, Data Science, Programming, Machine Learning and Artificial Intelligence.
+
+### About me:
+🎓 Bachelor in Information Systems<br>
+👩🏻‍💻 MBA in IT Strategic Management<br>
+🎨 I can make [realistic drawings](https://www.instagram.com/juchagas_arts/)<br>
+🏊🏼‍♀️ I love to swim
+
+### **Skills:**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pandas/pandas-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
+  
+
 ### **Projects:**
 
 - #### **Exploratory Data Analysis**
@@ -39,7 +43,7 @@ Here are some ideas to get you started:
   
   _Tools: scikit-learn, statsmodels, xgboost, random forest, catboost, decision tree, PCA, t-SNE, UMAP, K-Means, pandas, pandas profiling, numpy, matplotlib, seaborn_
 
-### Github Activity: 
+### **Github Activity:**
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/julianichagas/julianichagas/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/julianichagas/julianichagas/output/github-contribution-grid-snake.svg">
