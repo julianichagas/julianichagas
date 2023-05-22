@@ -1,4 +1,8 @@
-## Hi there, I'm Juliani Chagas! 👋
+## Hi there, I'm Juliani Chagas! 👋🏻
+
+Welcome to my GitHub page. In this space I share Data Science codes, written in Python and SQL. They contain predictive and exploratory analyzes in order to use data to generate insights.
+
+I work to improve my knowledge in Data Analysis, Data Science, Programming, Machine Learning and Artificial Intelligence.
 
 ### About me:
 🎓 Bachelor in Information Systems<br>
