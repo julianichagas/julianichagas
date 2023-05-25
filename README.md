@@ -103,6 +103,11 @@ I work to improve my knowledge in Data Analysis, Data Science, Programming, Mach
   - [Data Manipulation and Visualization with SQL, Python and R](https://github.com/julianichagas/selection-processes/blob/main/Challenge.ipynb): Exploratory data analysis with python, R and SQL in Jupyter Notebook.
   
   _Tools: Pandas, R magic, Tidyverse, SQL_
+  
+- #### **Data Extraction**
+  - [Data Extraction using Google Analytics 4 API](https://github.com/julianichagas/portfolio/tree/main/GA4%20API): Creation of connection to GA4's API to retrieve e-commerce data. 
+  
+  _Tools: Pandas, Google Analytics 4 API_
 
 - #### **Machine Learning**
   - [Rossman Stores Sales Prediction](https://github.com/julianichagas/portfolio/tree/main/Rossmann%20Store%20Sales): Sales prediction for each store for the next six weeks in order to define a budget for stores renovation. A machine learning model was created with XGBoost Regressor in order to forecast store sales.
