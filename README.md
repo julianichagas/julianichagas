@@ -21,7 +21,7 @@ I work to improve my knowledge in Data Analysis, Data Science, Programming, Mach
 
 ### About me:
 🎓 Bachelor in Information Systems<br>
-👩🏻‍💻 MBA in IT Strategic Management<br>
+👩🏻‍💻 MBA in Strategic Management of IT<br>
 🎨 I can make [realistic drawings](https://www.instagram.com/p/CJ18iacJVj0/)<br>
 🏊🏼‍♀️ I love to swim
 
