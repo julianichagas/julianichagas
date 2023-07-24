@@ -99,6 +99,11 @@ I work to improve my knowledge in Data Analysis, Data Science, Programming, Mach
 
 ### **Projects:**
 
+- ### **Content Creator**
+  - Creation of educational videos in partnership with [Comunidade Data Science](https://www.youtube.com/@ComunidadeDS/videos). I present content related to Data Science, Excel and Power BI.
+  
+  _[Video - PT - Importing Data from Web to Power BI](https://www.youtube.com/watch?v=2XocfWZqrL4)_
+
 - #### **Exploratory Data Analysis**
   - [Data Manipulation and Visualization with SQL, Python and R](https://github.com/julianichagas/selection-processes/blob/main/Challenge.ipynb): Exploratory data analysis with python, R and SQL in Jupyter Notebook.
   
