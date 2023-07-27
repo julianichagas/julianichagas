@@ -99,7 +99,7 @@ I work to improve my knowledge in Data Analysis, Data Science, Programming, Mach
 
 ### **Projects:**
 
-- ### **Content Creator**
+- #### **Content Creator**
   - Creation of educational videos in partnership with [Comunidade Data Science](https://www.youtube.com/@ComunidadeDS/videos). I present content related to Data Science, Excel and Power BI.
   
   _[Video - PT - Importing Data from Web to Power BI](https://www.youtube.com/watch?v=2XocfWZqrL4)_
