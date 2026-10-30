@@ -21,9 +21,9 @@ Make data definitions, history, validation logic and lineage explicit so downstr
 
 ## Technical foundation
 
-- **SQL & processing:** Presto, Hive, Spark SQL, PL/SQL, Python, PySpark and Pandas.
+- **SQL & processing:** Presto, Spark SQL, PL/SQL, Python, PySpark and Pandas.
 - **Data modeling:** analytical modeling, star schema, SCD Type 1 & Type 2 patterns, data grain and SSOT design.
-- **Data platforms:** Amazon S3, Hive metastore, Parquet, ETL/ELT and DAG-based orchestration.
+- **Data platforms:** Amazon S3, Hive tables via Presto/Spark SQL, Parquet, ETL/ELT and DAG-based orchestration.
 - **Integrations:** relational tables, REST APIs, SFTP, JSON and positional/fixed-width files.
 - **Engineering practice:** data validation, anomaly investigation, technical documentation, versioned environments and Git workflows.
 
